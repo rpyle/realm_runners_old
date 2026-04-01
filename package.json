@@ -1,6 +1,6 @@
 {
-  "name": "realm_runner",
-  "version": "0.0.0",
+  "name": "realm_runners",
+  "version": "0.5",
   "private": true,
   "type": "module",
   "scripts": {
