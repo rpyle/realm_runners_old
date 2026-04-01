@@ -1,6 +1,7 @@
 {
   "name": "realm_runners",
-  "version": "0.5",
+  "homepage": "https://rpyle.github.io/realm_runner",
+  "version": "0.0.0",
   "private": true,
   "type": "module",
   "scripts": {
